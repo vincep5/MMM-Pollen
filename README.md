@@ -1,5 +1,5 @@
 # MMM-Pollen
-get the pollen.com forecast for your zipcode
+MagicMirror module to get the pollen.com forecast for your zipcode
 
 ## Preview
 ![screenshot1](screenshot1.JPG)
