@@ -1,3 +1,5 @@
+## Looks like the API is not working anymore or is blocked by the site
+
 # MMM-Pollen
 MagicMirror module to get the pollen.com forecast for your zipcode
 
