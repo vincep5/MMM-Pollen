@@ -5,7 +5,13 @@ MagicMirror module to get the pollen.com forecast for your zipcode
 ![screenshot1](screenshot1.JPG)
 
 ## Using the module
-run git clone https://github.com/vincep5/MMM-Pollen from inside your MagicMirror/modules folder
+Go to your MagicMirror modules directory by entering `cd MagicMirror/modules`
+
+run `git clone https://github.com/vincep5/MMM-Pollen`
+
+run `cd MMM-Pollen` to get into the newly created folder
+
+run `npm install` to install the dependencies
 
 Add `MMM-Pollen` module to the `modules` array in the `config/config.js` file:
 ````javascript
